@@ -11,6 +11,7 @@ class LaborRightsApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Labor Rights',
       theme: ThemeData(
         primarySwatch: Colors.blue,
