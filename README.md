@@ -1,1 +1,1 @@
-# workersRights
+# LaborRightsApp
